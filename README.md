@@ -44,7 +44,7 @@ LIBRARYMANAGEMENTSYSTEM/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/library-management-system.git
+   https://github.com/Alok6656/Library-Management-System.git
    ```
 
 2. Navigate to the project folder:
